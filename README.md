@@ -1,4 +1,4 @@
-# Hack The Box – Appointment
+# Hack The Box – Appointment | SQL Injection & Authentication Bypass
 
 A Hack The Box Starting Point Tier 1 lab focused on network enumeration, SQL Injection, and web application authentication bypass.
 
